@@ -15,3 +15,5 @@ Le catalogue français se trouve dans catalogue-fr.json. Les EPUB sont dans la p
 Android 7 minimum. Les archives « Source code » de GitHub ne contiennent pas le projet complet et ne sont pas à installer.
 
 Novely 0.10.0 : fiche d’œuvre et chapitres repensés, tomes dépliables, accès par tranches, recherche et suivi lu/non lu simplifié avec annulation. Boutons Précédent/Suivant en fin de chapitre ; Suivant coche celui quitté. Barre de progression par chapitre. Shadow Slave organisé en 13 volumes logiques dans le même EPUB. Les livres et leurs identifiants restent identiques à 0.9.1.
+
+Novely 0.11.0 — À ta façon : 31 préférences de lecture, ambiance, navigation et bibliothèque, trois ambiances et cinq profils sauvegardables. Accès dans Profil → Personnaliser Novely. Livres et progressions conservés.
