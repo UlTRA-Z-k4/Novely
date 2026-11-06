@@ -21,3 +21,5 @@ Novely 0.11.0 — À ta façon : 31 préférences de lecture, ambiance, navigati
 Novely 0.11.1 : accueil sans À la une et six palettes sombres supplémentaires (14 thèmes, dont 11 sombres).
 
 Novely 0.12.0 : commentaires publics intégrés aux paragraphes et chapitres, sans inscription. Choisis un pseudo dans l’application, publie et réponds aux autres lecteurs. Brouillons conservés si la connexion coupe. Mise à jour à installer par-dessus la version existante.
+
+Novely 0.12.1 : commentaires simplifiés, messages visibles en premier, zone d’écriture toujours accessible, pseudo et passage dépliables à la demande.
