@@ -25,3 +25,5 @@ Novely 0.12.0 : commentaires publics intégrés aux paragraphes et chapitres, sa
 Novely 0.12.1 : commentaires simplifiés, messages visibles en premier, zone d’écriture toujours accessible, pseudo et passage dépliables à la demande.
 
 Novely 0.13.0 : conversations et réponses mieux séparées, GIF de réactions d’anime gratuits via NEKOSBEST, choix par réaction et recherche par anime. Bouton GIF → choisir → Envoyer. Livres, commentaires et progression conservés.
+
+Novely 0.13.1 : catalogue GIF généraliste KLIPY (memes, films, animaux, sport et réactions), recherche libre et tendances. Clé provisoire limitée à 100 appels par heure pour l’application en attendant la validation de production par KLIPY. Anciens GIF et commentaires conservés.
