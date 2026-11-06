@@ -23,3 +23,5 @@ Novely 0.11.1 : accueil sans À la une et six palettes sombres supplémentaires 
 Novely 0.12.0 : commentaires publics intégrés aux paragraphes et chapitres, sans inscription. Choisis un pseudo dans l’application, publie et réponds aux autres lecteurs. Brouillons conservés si la connexion coupe. Mise à jour à installer par-dessus la version existante.
 
 Novely 0.12.1 : commentaires simplifiés, messages visibles en premier, zone d’écriture toujours accessible, pseudo et passage dépliables à la demande.
+
+Novely 0.13.0 : conversations et réponses mieux séparées, GIF de réactions d’anime gratuits via NEKOSBEST, choix par réaction et recherche par anime. Bouton GIF → choisir → Envoyer. Livres, commentaires et progression conservés.
