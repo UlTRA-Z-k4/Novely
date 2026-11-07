@@ -6,7 +6,7 @@ Lecteur Android personnel de light novels et webnovels, en français.
 
 Dans les fichiers de la version, choisir **Novely-X.Y.Z.apk**, puis l’ouvrir sur Android. Pour une mise à jour, installer par-dessus la version existante **sans désinstaller** afin de garder la progression.
 
-À partir de Novely 0.5, les livres sont séparés de l’APK. La bibliothèque est déjà remplie : un tome se télécharge automatiquement à sa première ouverture, puis reste lisible hors connexion. Il n’y a aucun import manuel. Les mises à jour se vérifient dans **Profil → Rechercher des mises à jour** ; Android demande ensuite de confirmer l’installation de la nouvelle APK.
+À partir de Novely 0.5, les livres sont séparés de l’APK. La bibliothèque est déjà remplie : un tome se télécharge automatiquement à sa première ouverture, puis reste lisible hors connexion. Il n’y a aucun import manuel. Les mises à jour se vérifient dans **Mon espace → Rechercher des mises à jour** ; Android demande ensuite de confirmer l’installation de la nouvelle APK.
 
 Le catalogue français se trouve dans catalogue-fr.json. Les EPUB sont dans la publication [Bibliothèque française](https://github.com/UlTRA-Z-k4/Novely/releases/tag/books), conservée séparément des versions de l’application.
 
@@ -29,3 +29,5 @@ Novely 0.13.0 : conversations et réponses mieux séparées, GIF de réactions d
 Novely 0.13.1 : catalogue GIF généraliste KLIPY (memes, films, animaux, sport et réactions), recherche libre et tendances. Clé provisoire limitée à 100 appels par heure pour l’application en attendant la validation de production par KLIPY. Anciens GIF et commentaires conservés.
 
 Novely 0.14.0 : finitions et fiabilité — recherche et navigation plus stables, bibliothèque plus claire, sauvegarde restaurée après aperçu et confirmation, nouvel essai si un tome ne s’ouvre pas. Parcours lecture et commentaires vérifiés ; installer sans désinstaller.
+
+Novely 0.15.0 — Plus simple et plus fluide : fiches avec tomes repliés, années séparées, accès à ses chapitres et onglet À propos. Commentaires allégés, réponses claires et menus discrets. Calculs de recherche et de défilement réduits, lecteur chargé à la demande. Livres, commentaires et progression conservés ; installer sans désinstaller.
