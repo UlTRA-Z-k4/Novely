@@ -10,7 +10,7 @@ Dans les fichiers de la version, choisir **Novely-X.Y.Z.apk**, puis l’ouvrir s
 
 Le catalogue français se trouve dans catalogue-fr.json. Les EPUB sont dans la publication [Bibliothèque française](https://github.com/UlTRA-Z-k4/Novely/releases/tag/books), conservée séparément des versions de l’application.
 
-5 œuvres, 101 EPUB : Classroom of the Elite (25 tomes : année 1 complète, année 2 jusqu’au 9.5), Shadow Slave (traduction NovelFrance), Re:Zero (28), Mushoku Tensei (30), Sword Art Online (17 tomes fournis ; 10–18 et 25 absents des sources). Les traductions automatiques restent partiellement relues ; les pages reproduites en images conservent leur langue d’origine. Auteurs et crédits restent dans les EPUB.
+7 œuvres et 136 EPUB disponibles, dont 35 nouveaux recueils NovelFrance : Shadow Slave, Classroom of the Elite, Re:Zero, Mushoku Tensei, Sword Art Online, Lord of Mysteries et Omniscient Reader’s Viewpoint. Les anciennes éditions restent accessibles pour conserver les reprises, signets et citations. Classroom comprend l’année 1 et l’année 2 jusqu’au tome 9.5 ; les tomes SAO 10–18 et 25 restent absents. Les éditions automatiques sont partiellement relues. Les auteurs, crédits et provenances sont conservés.
 
 Android 7 minimum. Les archives « Source code » de GitHub ne contiennent pas le projet complet et ne sont pas à installer.
 
@@ -31,3 +31,5 @@ Novely 0.13.1 : catalogue GIF généraliste KLIPY (memes, films, animaux, sport 
 Novely 0.14.0 : finitions et fiabilité — recherche et navigation plus stables, bibliothèque plus claire, sauvegarde restaurée après aperçu et confirmation, nouvel essai si un tome ne s’ouvre pas. Parcours lecture et commentaires vérifiés ; installer sans désinstaller.
 
 Novely 0.15.0 — Plus simple et plus fluide : fiches avec tomes repliés, années séparées, accès à ses chapitres et onglet À propos. Commentaires allégés, réponses claires et menus discrets. Calculs de recherche et de défilement réduits, lecteur chargé à la demande. Livres, commentaires et progression conservés ; installer sans désinstaller.
+
+Novely 0.16.0 — Éditions NovelFrance : Mushoku Tensei (285 chapitres) et ReZero (677), plus Lord of Mysteries (1 432) et Omniscient Reader’s Viewpoint (944 entrées disponibles). Recueils de 100 chapitres maximum ; anciennes éditions OPUS conservées avec leurs progressions. Sept œuvres sur une fiche chacune. Installer la mise à jour sans désinstaller pour accéder aux éditions et aux crédits correctement.
