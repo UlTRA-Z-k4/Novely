@@ -10,7 +10,9 @@ Dans les fichiers de la version, choisir **Novely-X.Y.Z.apk**, puis l’ouvrir s
 
 Le catalogue français se trouve dans catalogue-fr.json. Les EPUB sont dans la publication [Bibliothèque française](https://github.com/UlTRA-Z-k4/Novely/releases/tag/books), conservée séparément des versions de l’application.
 
-7 œuvres et 136 EPUB disponibles, dont 35 nouveaux recueils NovelFrance : Shadow Slave, Classroom of the Elite, Re:Zero, Mushoku Tensei, Sword Art Online, Lord of Mysteries et Omniscient Reader’s Viewpoint. Les anciennes éditions restent accessibles pour conserver les reprises, signets et citations. Classroom comprend l’année 1 et l’année 2 jusqu’au tome 9.5 ; les tomes SAO 10–18 et 25 restent absents. Les éditions automatiques sont partiellement relues. Les auteurs, crédits et provenances sont conservés.
+Le catalogue contient 9 œuvres et 157 EPUB. *The Beginning After The End* et *The Primal Hunter* rejoignent Shadow Slave, Classroom of the Elite, Re:Zero, Mushoku Tensei, Sword Art Online, Lord of Mysteries et Omniscient Reader’s Viewpoint. Les anciennes éditions restent accessibles pour retrouver les reprises, signets et citations. Classroom comprend l’année 1 et l’année 2 jusqu’au tome 9.5. Les tomes SAO 10 à 18 et 25 restent absents. Les éditions automatiques sont partiellement relues. Les auteurs et crédits figurent dans les fiches.
+
+Novely 0.21.0 ajoute la préparation de plusieurs tomes hors ligne, un espace « Mes échanges » avec les réponses non lues et les spoilers à déplier, ainsi que des fiches avec résumé, genres et accès aux anciennes éditions. Les deux nouvelles œuvres regroupent 1 985 entrées de NovelFrance en 21 recueils. La numérotation de *The Beginning After The End* suit la source, avec ses numéros absents.
 
 Android 7 minimum. Les archives « Source code » de GitHub ne contiennent pas le projet complet et ne sont pas à installer.
 
