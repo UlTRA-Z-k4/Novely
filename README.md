@@ -12,6 +12,8 @@ Le catalogue français se trouve dans catalogue-fr.json. Les EPUB sont dans la p
 
 Le catalogue contient 9 œuvres et 157 EPUB. *The Beginning After The End* et *The Primal Hunter* rejoignent Shadow Slave, Classroom of the Elite, Re:Zero, Mushoku Tensei, Sword Art Online, Lord of Mysteries et Omniscient Reader’s Viewpoint. Les anciennes éditions restent accessibles pour retrouver les reprises, signets et citations. Classroom comprend l’année 1 et l’année 2 jusqu’au tome 9.5. Les tomes SAO 10 à 18 et 25 restent absents. Les éditions automatiques sont partiellement relues. Les auteurs et crédits figurent dans les fiches.
 
+Novely 0.22.0 ajuste la taille du texte et l’interligne des chapitres sur téléphone. L’accueil met la reprise en avant avec la couverture du livre et une lumière animée accordée au thème. Dans **Mon espace → Carnet de lecture**, la recherche retrouve tes marque-pages et citations pour revenir directement au passage.
+
 Novely 0.21.0 ajoute la préparation de plusieurs tomes hors ligne, un espace « Mes échanges » avec les réponses non lues et les spoilers à déplier, ainsi que des fiches avec résumé, genres et accès aux anciennes éditions. Les deux nouvelles œuvres regroupent 1 985 entrées de NovelFrance en 21 recueils. La numérotation de *The Beginning After The End* suit la source, avec ses numéros absents.
 
 Android 7 minimum. Les archives « Source code » de GitHub ne contiennent pas le projet complet et ne sont pas à installer.
