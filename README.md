@@ -39,3 +39,5 @@ Novely 0.17.0 — Refonte de l’accueil, bibliothèque de couvertures, fiches d
 Novely 0.18.0 — Recherche dans Bibliothèque et dans les chapitres d’une œuvre, reprise plus directe, retour conservant la recherche, discussions clarifiées, illustration originale et transitions discrètes, lecteur rétabli après certains redimensionnements. Installer par-dessus sans désinstaller ; catalogue et données conservés.
 
 Novely 0.19.0 — Accueil illustré avec reprise intégrée, cartes de bibliothèque unifiées, fiches immersives et Mon espace illustré. Version installée visible même hors connexion. Installer par-dessus sans désinstaller ; livres et données conservés.
+
+Novely 0.19.1 — Retour à l’habillage classique du lecteur, fond fidèle au thème choisi, police sélectionnée appliquée aux paragraphes et réglages de lecture conservés. Les améliorations de l’application, livres et données restent en place. Installer par-dessus sans désinstaller.
