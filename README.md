@@ -35,3 +35,5 @@ Novely 0.15.0 — Plus simple et plus fluide : fiches avec tomes repliés, anné
 Novely 0.16.0 — Éditions NovelFrance : Mushoku Tensei (285 chapitres) et ReZero (677), plus Lord of Mysteries (1 432) et Omniscient Reader’s Viewpoint (944 entrées disponibles). Recueils de 100 chapitres maximum ; anciennes éditions OPUS conservées avec leurs progressions. Sept œuvres sur une fiche chacune. Installer la mise à jour sans désinstaller pour accéder aux éditions et aux crédits correctement.
 
 Novely 0.17.0 — Refonte de l’accueil, bibliothèque de couvertures, fiches de lecture, Mon espace et panneaux harmonisés. Une remontée dans le chapitre n’ouvre plus les commandes : toucher le texte ou le bouton de menu pour les retrouver. Installer par-dessus sans désinstaller ; catalogue et données conservés.
+
+Novely 0.18.0 — Recherche dans Bibliothèque et dans les chapitres d’une œuvre, reprise plus directe, retour conservant la recherche, discussions clarifiées, illustration originale et transitions discrètes, lecteur rétabli après certains redimensionnements. Installer par-dessus sans désinstaller ; catalogue et données conservés.
