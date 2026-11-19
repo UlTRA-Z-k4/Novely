@@ -37,3 +37,5 @@ Novely 0.16.0 — Éditions NovelFrance : Mushoku Tensei (285 chapitres) et ReZe
 Novely 0.17.0 — Refonte de l’accueil, bibliothèque de couvertures, fiches de lecture, Mon espace et panneaux harmonisés. Une remontée dans le chapitre n’ouvre plus les commandes : toucher le texte ou le bouton de menu pour les retrouver. Installer par-dessus sans désinstaller ; catalogue et données conservés.
 
 Novely 0.18.0 — Recherche dans Bibliothèque et dans les chapitres d’une œuvre, reprise plus directe, retour conservant la recherche, discussions clarifiées, illustration originale et transitions discrètes, lecteur rétabli après certains redimensionnements. Installer par-dessus sans désinstaller ; catalogue et données conservés.
+
+Novely 0.19.0 — Accueil illustré avec reprise intégrée, cartes de bibliothèque unifiées, fiches immersives et Mon espace illustré. Version installée visible même hors connexion. Installer par-dessus sans désinstaller ; livres et données conservés.
