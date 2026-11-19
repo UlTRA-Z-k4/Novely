@@ -6,7 +6,9 @@ Lecteur Android personnel de light novels et webnovels, en français.
 
 Dans les fichiers de la version, choisir **Novely-X.Y.Z.apk**, puis l’ouvrir sur Android. Pour une mise à jour, installer par-dessus la version existante **sans désinstaller** afin de garder la progression.
 
-À partir de Novely 0.5, les livres sont séparés de l’APK. La bibliothèque est déjà remplie : un tome se télécharge automatiquement à sa première ouverture, puis reste lisible hors connexion. Il n’y a aucun import manuel. Les mises à jour se vérifient dans **Mon espace → Rechercher des mises à jour** ; Android demande ensuite de confirmer l’installation de la nouvelle APK.
+À partir de Novely 0.5, les livres sont séparés de l’APK. La bibliothèque est déjà remplie : un tome se télécharge automatiquement à sa première ouverture, puis reste lisible hors connexion. Il n’y a aucun import manuel. Les mises à jour se vérifient dans **Mon espace → Mises à jour** ; Android demande ensuite de confirmer l’installation de la nouvelle APK.
+
+Novely **0.23.0** ajoute la consultation de passages sans perdre ta place, le suivi des nouveaux chapitres, la recherche dans les tomes téléchargés et les sauvegardes Android avec fusion. Sur la fiche d’une œuvre, touche **Suivre**, puis ouvre **Bibliothèque → Mon suivi** pour retrouver ses sorties.
 
 Le catalogue français se trouve dans catalogue-fr.json. Les EPUB sont dans la publication [Bibliothèque française](https://github.com/UlTRA-Z-k4/Novely/releases/tag/books), conservée séparément des versions de l’application.
 
