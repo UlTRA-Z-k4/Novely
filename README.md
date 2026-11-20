@@ -8,6 +8,8 @@ Dans les fichiers de la version, choisir **Novely-X.Y.Z.apk**, puis l’ouvrir s
 
 À partir de Novely 0.5, les livres sont séparés de l’APK. La bibliothèque est déjà remplie : un tome se télécharge automatiquement à sa première ouverture, puis reste lisible hors connexion. Il n’y a aucun import manuel. Les mises à jour se vérifient dans **Mon espace → Mises à jour** ; Android demande ensuite de confirmer l’installation de la nouvelle APK.
 
+Novely **0.23.1** redonne aux chapitres les marges de la 0.16, avec un texte plus petit. Les bulles de commentaires se placent en fin de paragraphe. Si tu utilisais une ancienne mise en page personnalisée, ouvre **Mon espace → Personnaliser Novely → Lecture** pour retrouver la mise en page classique.
+
 Novely **0.23.0** ajoute la consultation de passages sans perdre ta place, le suivi des nouveaux chapitres, la recherche dans les tomes téléchargés et les sauvegardes Android avec fusion. Sur la fiche d’une œuvre, touche **Suivre**, puis ouvre **Bibliothèque → Mon suivi** pour retrouver ses sorties.
 
 Le catalogue français se trouve dans catalogue-fr.json. Les EPUB sont dans la publication [Bibliothèque française](https://github.com/UlTRA-Z-k4/Novely/releases/tag/books), conservée séparément des versions de l’application.
