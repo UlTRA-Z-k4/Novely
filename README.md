@@ -8,6 +8,8 @@ Dans les fichiers de la version, choisir **Novely-X.Y.Z.apk**, puis l’ouvrir s
 
 À partir de Novely 0.5, les livres sont séparés de l’APK. La bibliothèque est déjà remplie : un tome se télécharge automatiquement à sa première ouverture, puis reste lisible hors connexion. Il n’y a aucun import manuel. Les mises à jour se vérifient dans **Mon espace → Mises à jour** ; Android demande ensuite de confirmer l’installation de la nouvelle APK.
 
+Novely **0.28.0** donne un mouvement propre aux sept décors animés. Les trente thèmes réagissent au toucher et se testent avec **Essayer l’effet** dans la galerie. Les animations décoratives respectent le réglage de mouvement réduit.
+
 Novely **0.27.0** redessine les 30 thèmes, avec une illustration et des commandes propres à chaque ambiance. Les formes et les détails se retrouvent dans l’accueil, la navigation et la liseuse.
 
 Novely **0.26.0** ajoute 18 thèmes sombres pour un total de 30. La galerie propose des filtres Unis, Dégradés et Animés ainsi qu’un aperçu de l’accueil et du papier. Les réglages se trouvent dans **Mon espace → Personnaliser Novely → Thèmes**.
