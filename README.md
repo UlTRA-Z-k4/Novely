@@ -8,6 +8,8 @@ Dans les fichiers de la version, choisir **Novely-X.Y.Z.apk**, puis l’ouvrir s
 
 À partir de Novely 0.5, les livres sont séparés de l’APK. La bibliothèque est déjà remplie : un tome se télécharge automatiquement à sa première ouverture, puis reste lisible hors connexion. Il n’y a aucun import manuel. Les mises à jour se vérifient dans **Mon espace → Mises à jour** ; Android demande ensuite de confirmer l’installation de la nouvelle APK.
 
+Novely **0.24.0** renforce les dégradés des douze thèmes sombres sur l’accueil, les cartes, les fiches et les menus. Dans **Mon espace → Personnaliser Novely → Thèmes**, les vignettes illustrées permettent de choisir une palette et l’aperçu montre son rendu sur l’accueil et dans la liseuse.
+
 Novely **0.23.2** rétablit la taille de lecture de la 0.16 et compense l’agrandissement Android dans les chapitres. La mise à jour est disponible dans **Mon espace → Mises à jour**.
 
 Novely **0.23.1** redonne aux chapitres les marges de la 0.16, avec un texte plus petit. Les bulles de commentaires se placent en fin de paragraphe. Si tu utilisais une ancienne mise en page personnalisée, ouvre **Mon espace → Personnaliser Novely → Lecture** pour retrouver la mise en page classique.
