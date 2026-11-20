@@ -8,6 +8,8 @@ Dans les fichiers de la version, choisir **Novely-X.Y.Z.apk**, puis l’ouvrir s
 
 À partir de Novely 0.5, les livres sont séparés de l’APK. La bibliothèque est déjà remplie : un tome se télécharge automatiquement à sa première ouverture, puis reste lisible hors connexion. Il n’y a aucun import manuel. Les mises à jour se vérifient dans **Mon espace → Mises à jour** ; Android demande ensuite de confirmer l’installation de la nouvelle APK.
 
+Novely **0.25.1** affine la reprise dans le chapitre après un défilement court et après le chargement de la police.
+
 Novely **0.25.0** facilite la reprise de plusieurs lectures et indique la disponibilité du prochain tome. La liseuse propose une taille agrandie et un premier ensemble de repères sans spoilers pour *Shadow Slave*. La mise à jour se trouve dans **Mon espace → Mises à jour**.
 
 Novely **0.24.0** renforce les dégradés des douze thèmes sombres sur l’accueil, les cartes, les fiches et les menus. Dans **Mon espace → Personnaliser Novely → Thèmes**, les vignettes illustrées permettent de choisir une palette et l’aperçu montre son rendu sur l’accueil et dans la liseuse.
